@@ -1,0 +1,52 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "fullName": "Aafreen Zaki",
+      "email": "test@test.com",
+      "avatarUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "fullName": "Maliki Zaki",
+      "email": "test@test.com",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "fullName": "Aniket Kumar",
+      "email": "test@test.com",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr01zI37DYuR8bMV5exWQBSw28C1v_71CAh8d7GP1mplcmTgQA6Q66Oo--QedAN1B4E1k&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "fullName": "Kiara",
+      "email": "test@test.com",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU"
+    },
+    {
+      "fullName": "maliki zaki",
+      "email": "test@test.com",
+      "avatarUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 6
+    },
+    {
+      "fullName": "Raja",
+      "email": "test@test.com",
+      "avatarUrl": "https://miro.medium.com/max/1400/0*0fClPmIScV5pTLoE.jpg",
+      "id": 7
+    },
+    {
+      "fullName": "zaki",
+      "email": "test@test.com",
+      "avatarUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 8
+    },
+    {
+      "fullName": "maliki baru",
+      "email": "test",
+      "avatarUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 9
+    }
+  ]
+}
